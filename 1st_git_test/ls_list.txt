@@ -1,0 +1,4 @@
+total 8
+drwxrwxr-x 2 zxc zxc 4096  7월  3 15:29 .
+drwxrwxr-x 4 zxc zxc 4096  7월  3 15:27 ..
+-rw-rw-r-- 1 zxc zxc    0  7월  3 15:29 ls_list.txt
